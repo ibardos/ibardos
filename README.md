@@ -6,8 +6,8 @@ For information about me, please see the terminal below.
 ibardos@MacBook_Pro ~ % cd GitHub
 ibardos@MacBook_Pro GitHub % ls -l
 
-    Oct 11 19:39 introduction.txt
-    Oct 11 19:37 stack_info
+    Oct 11 19:15 introduction.txt
+    Oct 11 19:20 stack_info
 
 
 
