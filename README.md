@@ -20,6 +20,7 @@ ibardos@MacBook_Pro GitHub % cat introduction.txt
     I like code when it's DRY and CLEAN, as preciseness and quality is important for me.
     Love to meet new people, and work mutually with others.
     "Growth mindset" is also an important part of my life. I believe, each day should count.
+    If you interested, check my demo projects below. Tip: motoShop is my latest.
 
 
 
