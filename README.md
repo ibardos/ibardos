@@ -13,7 +13,7 @@ ibardos@MacBook_Pro GitHub % ls -l
 
 ibardos@MacBook_Pro GitHub % cat introduction.txt
 
-    Hello! I am Istvan Bardos, a junior Full-Stack Software Developer, from Hungary.
+    Hello! I am Istvan Bardos, a junior Full-Stack Software Developer from Hungary, who is living in Vienna, Austria.
     I am familiar with several programming languages, frameworks and software architectural patterns,
     with a strong focus on Java+Spring on the back-end side, and ReactJS on the front-end side.
     I like code when it's DRY and CLEAN, as preciseness and quality is important for me.
@@ -25,11 +25,10 @@ ibardos@MacBook_Pro GitHub % cat introduction.txt
 ibardos@MacBook_Pro GitHub % cd stack_info
 ibardos@MacBook_Pro stack_info % ls -l
 
-    Oct 11 19:22 programming_languages.txt
-    Oct 11 19:36 frameworks.txt
-    Oct 11 19:36 software_architectural_patterns.txt
-    Oct 11 19:36 relational_databases.txt
+    Oct 11 19:22 programming_languages_and_frameworks.txt
     Oct 11 19:41 object_relational_mappers.txt
+    Oct 11 19:36 relational_databases.txt
+    Oct 11 19:36 software_architectural_patterns.txt
     Oct 11 19:41 IDEs.txt
     Oct 11 19:45 soft_skills.txt
 
@@ -37,10 +36,12 @@ ibardos@MacBook_Pro stack_info % ls -l
 
 ibardos@MacBook_Pro stack_info % for FILE in *; do cat $FILE; done
 
-    Programming languages:
+    Programming languages and frameworks:
         Backend:
             - Java
+            - Spring Boot
             - C#
+            - ASP.NET Core
             - Python
             - Flask
         Frontend:
@@ -54,9 +55,16 @@ ibardos@MacBook_Pro stack_info % for FILE in *; do cat $FILE; done
         Others:
             - Plant UML
 
-    Frameworks:
-        - Spring boot
-        - ASP.NET Core
+
+    Object-relational mappers:
+        - Hibernate
+        - Entity Framework Core
+
+
+    Relational databases:
+        - PostgreSQL
+        - Azure cloud database
+
 
     Software architectural patterns:
         - MVC pattern
@@ -64,12 +72,6 @@ ibardos@MacBook_Pro stack_info % for FILE in *; do cat $FILE; done
         - CSR pattern
         - DAO pattern
 
-    Relational databases:
-        - PostgreSQL
-        - Azure cloud database
-
-    Object-relational mappers:
-        - Entity Framework Core
 
     IDEs:
         - IntelliJ IDEA
@@ -78,12 +80,12 @@ ibardos@MacBook_Pro stack_info % for FILE in *; do cat $FILE; done
         - Visual Studio for Mac
         - Xcode
 
+
     Soft-skills:
         - Clean code
         - OOP design
         - UML class diagram planning
-        - Agile development
-        - SCRUM
+        - Agile development (SCRUM)
         - Teamwork
         - Resilience
 
