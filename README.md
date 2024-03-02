@@ -13,11 +13,12 @@ ibardos@MacBook_Pro GitHub % ls -l
 
 ibardos@MacBook_Pro GitHub % cat introduction.txt
 
-    Hello! I am Istvan Bardos, a junior Full-Stack Software Developer from Hungary, who is living in Vienna, Austria.
-    I am familiar with several programming languages, frameworks and software architectural patterns,
-    with a strong focus on Java+Spring on the back-end side, and ReactJS on the front-end side.
+    Hello! I am Istvan Bardos, a junior Full-Stack Software Developer from Hungary,
+    who is living in Vienna, Austria. I am familiar with several programming languages,
+    frameworks and software architectural patterns, with a strong focus on Java+Spring
+    on the back-end side, and ReactJS on the front-end side.
     I like code when it's DRY and CLEAN, as preciseness and quality is important for me.
-    Love to meet new people, and work with others.
+    Love to meet new people, and work mutually with others.
     "Growth mindset" is also an important part of my life. I believe, each day should count.
 
 
