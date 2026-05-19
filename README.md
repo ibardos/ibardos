@@ -13,20 +13,26 @@ ibardos@MacBook_Pro GitHub % ls -l
 
 ibardos@MacBook_Pro GitHub % cat introduction.txt
 
-    Hello! I am Istvan Bardos, a Full-Stack Software Developer from Hungary,
-    who is living in Vienna, Austria. I am familiar with several programming languages,
-    frameworks and software architectural patterns, with a strong focus on Java+Spring
-    at the back-end side, and ReactJS at the front-end side.
+    Hello! I'm István Bárdos — a Full-Stack Software Developer based in Vienna, Austria.
 
-    Preciseness and quality is important for me, therefore I like code when it's DRY and CLEAN.
-    I feel myself comfortable working alone deep inside the "flow", but I also love to meet
-    with new people, and work in teams towards a mutual goal.
-
-    "Growth mindset" is also an important part of my life. I believe, each day should count,
-    and there's always room for improvement.
-
-    If you interested, check my demo projects below!
-    Tip: I advice to check motoShop, that's my latest and most comprehensive project.
+    My main focus is building real-world software products with Java and Spring Boot on the backend, combined with modern frontend technologies including React.
+    
+    I enjoy owning the full development lifecycle: translating requirements into architecture, implementing features, deploying applications, and operating them in production. My recent work goes beyond prototypes — I build applications designed to solve real business problems and support day-to-day operations.
+    
+    My work includes:
+    • Java / Spring Boot  
+    • PostgreSQL  
+    • React / Thymeleaf  
+    • Authentication & Authorization (JWT)  
+    • CI/CD pipelines  
+    • Cloud deployment & production operations  
+    • Software architecture and maintainable system design  
+    
+    Not all of my projects are publicly available on GitHub — some are actively maintained production systems developed for real-world usage and therefore remain private. Public repositories shown here represent selected examples of my engineering approach.
+    
+    I care about writing software that remains understandable and maintainable over time — balancing clean design, pragmatic decisions, and continuous improvement.
+    
+    Growth mindset is an important part of how I work: I enjoy learning, refining my engineering practices, and continuously improving both the systems I build and the way I build them.
 
 
 
