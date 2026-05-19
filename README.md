@@ -15,9 +15,12 @@ ibardos@MacBook_Pro GitHub % cat introduction.txt
 
     Hello! I'm István Bárdos — a Full-Stack Software Developer based in Vienna, Austria.
 
-    My main focus is building real-world software products with Java and Spring Boot on the backend, combined with modern frontend technologies including React.
+    My main focus is building real-world software products with Java and Spring Boot on the backend, combined
+    with modern frontend technologies including React.
     
-    I enjoy owning the full development lifecycle: translating requirements into architecture, implementing features, deploying applications, and operating them in production. My recent work goes beyond prototypes — I build applications designed to solve real business problems and support day-to-day operations.
+    I enjoy owning the full development lifecycle: translating requirements into architecture,
+    implementing features, deploying applications, and operating them in production. My recent work goes beyond
+    prototypes — I build applications designed to solve real business problems and support day-to-day operations.
     
     My work includes:
     • Java / Spring Boot  
@@ -28,11 +31,15 @@ ibardos@MacBook_Pro GitHub % cat introduction.txt
     • Cloud deployment & production operations  
     • Software architecture and maintainable system design  
     
-    Not all of my projects are publicly available on GitHub — some are actively maintained production systems developed for real-world usage and therefore remain private. Public repositories shown here represent selected examples of my engineering approach.
+    Not all of my projects are publicly available on GitHub — some are actively maintained production systems
+    developed for real-world usage and therefore remain private. Public repositories shown here represent selected
+    examples of my engineering approach.
     
-    I care about writing software that remains understandable and maintainable over time — balancing clean design, pragmatic decisions, and continuous improvement.
+    I care about writing software that remains understandable and maintainable over time — balancing clean design,
+    pragmatic decisions, and continuous improvement.
     
-    Growth mindset is an important part of how I work: I enjoy learning, refining my engineering practices, and continuously improving both the systems I build and the way I build them.
+    Growth mindset is an important part of how I work: I enjoy learning, refining my engineering practices, and
+    continuously improving both the systems I build and the way I build them.
 
 
 
