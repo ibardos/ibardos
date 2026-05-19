@@ -32,8 +32,8 @@ ibardos@MacBook_Pro GitHub % cat introduction.txt
     • Software architecture and maintainable system design  
     
     Not all of my projects are publicly available on GitHub — some are actively maintained production systems
-    developed for real-world usage and therefore remain private. Public repositories shown here represent selected
-    examples of my engineering approach.
+    developed for real-world usage and therefore remain private. Public repositories shown here represent
+    selected examples of my engineering approach.
     
     I care about writing software that remains understandable and maintainable over time — balancing clean design,
     pragmatic decisions, and continuous improvement.
@@ -66,17 +66,18 @@ ibardos@MacBook_Pro stack_info % for FILE in *; do cat $FILE; done
                 - Java Database Connectivity (JDBC)
                 - Java Persistence Api (JPA)
                 - JUnit 5
-            - C#
+            - C# (Legacy)
                 - ASP.NET Core
                 - Razor pages
-            - Python
+            - Python (Legacy)
                 - Flask
                 - Jinja2 templating
             - Structured Query Language (SQL)
 
         Frontend:
             - JavaScript
-                - React
+            - ReactJS
+            - Thymeleaf
             - HTML5
             - CSS
             - Markdown
@@ -84,7 +85,7 @@ ibardos@MacBook_Pro stack_info % for FILE in *; do cat $FILE; done
 
     Object-relational mappers:
         - Hibernate
-        - Entity Framework Core
+        - Entity Framework Core (Legacy)
 
 
     Relational databases:
@@ -100,7 +101,7 @@ ibardos@MacBook_Pro stack_info % for FILE in *; do cat $FILE; done
 
 
     IDEs:
-        - IntelliJ IDEA
+        - IntelliJ IDEA (Main development environment)
         - Rider
         - PyCharm
         - Visual Studio for Mac
